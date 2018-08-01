@@ -1,3 +1,6 @@
-# Python Scripts
+# Python Algorithms and Data Structures
 
-A place for me to store my various python scripts :D 
+Organised Python Algorithms and Data Structures
+
+
+Algorithims 
