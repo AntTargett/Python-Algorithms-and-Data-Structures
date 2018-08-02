@@ -21,7 +21,7 @@ Organised Python Algorithms and Data Structures
 
 
 ## Dynamic Programming 
-- Dynamic Coing problem
+- Dynamic Coin problem
 
 
 
